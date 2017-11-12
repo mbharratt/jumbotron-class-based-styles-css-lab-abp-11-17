@@ -15,7 +15,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -50,5 +50,9 @@ h3#header {
   color: #868e96;
 }
 
-div.jumbotron { // Class selector 
-}
+div.jumbotron {
+    background-color: #e9ecef
+    radius-border: 5px; 
+    padding: 10px;
+    text-align: center;
+  }
